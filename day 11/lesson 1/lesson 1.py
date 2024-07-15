@@ -1,17 +1,17 @@
-# #დავალება 1
+# დავალება 1
 
-# #a = int(input("enter a:"))
-# #b = int(input("enter b:"))
+# a = int(input("enter a:"))
+# b = int(input("enter b:"))
 
-# #print(a * b)
+# print(a * b)
 
-# #დავალება 2
+# დავალება 2
 
 # users = int(input("enter your users age "))
 
 # print(users+10)
 
-# #დავალება 3
+# დავალება 3
 
 # name = "kaxi"
 # age = 15
