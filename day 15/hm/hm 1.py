@@ -18,9 +18,4 @@
 #    print(i)
 
 
-#hm 4
-#num = int(input("guess number:"))
-#while num != 5:
-#    num = int(input("gues number:"))
-    
     
