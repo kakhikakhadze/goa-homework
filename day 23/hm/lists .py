@@ -19,20 +19,20 @@
 
 # დავალება 3
 
-#txt = [10 , 25 , 18 , 23 , 36]
+#list1 = [1,2,3,4,5,6,7,8,9]
+#list2 = []
+#for i in list1:
+#    i = i * 2
+#    list2.append(i)
+#print(list2)
 
-#print(txt[0] * 2)
-#print(txt[1] * 2)
-#print(txt[2] * 2)
-#print(txt[3] * 2)
-#print(txt[4] * 2)
 
 #დავალება 4
 
-txt = [20 , 43 , 39 , 21 , 63]
+#txt = [20 , 43 , 39 , 21 , 63]
 
-print(txt[0] * txt[4])
-print(txt[1] * txt[3])
-print(txt[2] * txt[1])
-print(txt[3] * txt[2])
-print(txt[4] * txt[0])
+#print(txt[0] * txt[4])
+#print(txt[1] * txt[3])
+#print(txt[2] * txt[1])
+#print(txt[3] * txt[2])
+#print(txt[4] * txt[0])
