@@ -1,50 +1,25 @@
-#დღეში
-#print(3600 * 24)
+# დავალებაა 1
 
-#საათში
-#print(60 * 60)
-
-#წუთში
-#print(24 * 60)
-
+ #weight = int(input("enter your weight:"))
+#height = int(input("enter your height:"))
+  
+#print(weight)
+#print(height)
 
 
-#print("price: 200$ ")
-#print("display: -87 %")
-#print(200 - (87 * 2))
+# დავალება 2
+
+#yourbid = int(input("please enter how much you are bidding:"))
+#yourbid = int(input("please enter how much you are bidding:"))
+#maxbid = int(input("please enter your max bid:"))
+
+#if maxbid >= 18000:
+#    print("sold for:",maxbid)
 
 
-#nickname = (input("enter your nickname:"))
-#score = (input("enter your score:"))
-      
-#print("your nickname:" ,nickname)
-#print("your score:" ,score)
-
-#print("  *")
-#print(" ***")
-#print("*****")
-#print(" ***")
-#print("  *")
 
 
-#wins = int(input("enter your wins:"))
-#tie  = int(input("enter your tie:"))
-#print(tie * 0.5 + wins * 1)
-
-#country = (input("enter your country:"))
-#capital = (input("enter your capital:"))
-#print("your country: " ,country)
-#print("your capital: " ,capital)
-
-balance = int((input)"please enter your balance"))
-
-width
-
-#age = int(input("plese enter your age:"))
-#if age >= 15:
-#    print("Take your kandel")
-
-
+# დავალება 3
 
 
 
