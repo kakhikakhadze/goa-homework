@@ -1,0 +1,11 @@
+center{
+    text-decoration:underline;
+    font-size:larger;
+    color: rgb(red, green, blue);
+}
+
+p{
+    text-decoration: overline;
+    font-size: small;
+    color: rgb(rgb(0, 255, 213), rgb(128, 0, 0), rgb(0, 255, 119));
+}

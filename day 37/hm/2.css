@@ -1,0 +1,26 @@
+table{
+    border-collapse:separate;
+}
+
+tr:nth-child(1){
+    background-color: rgba(193, 205, 14, 0.701);
+    color: white;
+}
+
+tr:nth-child(3){
+    color: rgb(215, 212, 19);
+}
+
+tr:hover{
+    background-color: hsl(207, 100%, 53%);
+    color: rgb(255, 0, 0);
+}
+
+table{
+    border-bottom: 2px solid green;
+    width: 500px;
+}
+
+td, th{
+    text-align: left;
+}
