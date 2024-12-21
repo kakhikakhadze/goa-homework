@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&display=swap');
+
+h1{
+    width: 250px;
+    background-color:aqua;
+    color: red;
+    font-family: "Eczar", serif;
+    gap: 10px;
+}
+
+input[type="text"]{
+    color:aqua;
+    width: 500px;
+    height: 30px;
+    border: 1px solid greenyellow;
+    background-color: black ;
+}
+
+p{
+    color:red;
+    background-color:blueviolet;
+}
+
+h2{
+    color:red;
+    background-color: black;
+    width:250px;
+}

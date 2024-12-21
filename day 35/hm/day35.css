@@ -8,7 +8,7 @@ tr:nth-child(1){
 }
 
 tr:nth-child(3){
-    color: aquamarine;
+    color: rgb(64, 19, 168);
 }
 
 tr:hover{

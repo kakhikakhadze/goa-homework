@@ -51,7 +51,6 @@
 
 
 #დავალება 3
-
 #balance = int(input("please enter your balance:"))
 #withdraw = int(input("please enter your withdraw:"))
 

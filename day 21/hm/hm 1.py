@@ -34,14 +34,14 @@
 
 #დავალება 4 
 
-#martvismowmoba = input("seiyvanet tqveni asaki : ")
-#if int(martvismowmoba) > 18 or int(martvismowmoba) < 0:
-#    print("araswori wlovanoba")
-#manqanisweli = input(" seiyvanet manqanis weli : ")
-#if int(manqanisweli) > 2005 or int(manqanisweli) < 2024:
-#    print("araswori manqanis weli")
-#ramdenxnianigamocdilebagaqvt = input("seiyvanet tqveni martvis gamocdileba : ")
-#if int(ramdenxnianigamocdilebagaqvt) < 1:
-#    print("sakmarisi gamocdileba ar gaqvt")
-#else :
-#    print("gamocda ar aris cabarebuli")
+martvismowmoba = input("seiyvanet tqveni asaki : ")
+if int(martvismowmoba) > 18 or int(martvismowmoba) < 0:
+    print("araswori wlovanoba")
+manqanisweli = input(" seiyvanet manqanis weli : ")
+if int(manqanisweli) > 2005 or int(manqanisweli) < 2024:
+    print("araswori manqanis weli")
+ramdenxnianigamocdilebagaqvt = input("seiyvanet tqveni martvis gamocdileba : ")
+if int(ramdenxnianigamocdilebagaqvt) < 1:
+    print("sakmarisi gamocdileba ar gaqvt")
+else :
+    print("gamocda ar aris cabarebuli")

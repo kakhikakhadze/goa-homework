@@ -1,0 +1,20 @@
+.kl{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: blueviolet;
+    border: 20px solid greenyellow;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+
+
+
