@@ -1,0 +1,23 @@
+.m{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin-left: 15px ;
+}
+.m1{
+    display: flex;
+    justify-content: center;
+}
+.m2{
+    display: flex;
+    flex-direction: row;
+} 
+.m3{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.m4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}

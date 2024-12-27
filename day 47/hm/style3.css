@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.kl2{
+    background-color: blanchedalmond;
+    border: 2px solid crimson;
+    padding: 25px;
+    width:100px
+}

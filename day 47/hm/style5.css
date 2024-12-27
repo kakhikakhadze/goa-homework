@@ -1,0 +1,14 @@
+.gh{
+    display: flex;
+    gap: 15;
+}
+
+.lh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 20px;
+    background-color: brown;
+
+}

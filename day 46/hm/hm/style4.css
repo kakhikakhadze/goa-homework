@@ -1,0 +1,10 @@
+.rt{
+    flex-wrap: wrap;
+    display: flex;
+    gap: 10px;
+}
+.fr{
+    width: 100px;
+    height: 90px;
+    background-color: blue;
+}

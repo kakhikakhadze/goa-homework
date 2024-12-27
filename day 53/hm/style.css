@@ -1,0 +1,41 @@
+.g{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    background-color: aliceblue;
+    padding:20px;
+    border-radius: 20px;
+    border:1px solid black;
+    box-shadow: 8px 8px black;
+    gap:10px;
+}
+
+.learning{
+    border: none;
+    background-color: yellow;
+    padding: 15px 10px;
+    font-weight: bold;
+    font-size:0.9rem;
+}
+.publish{
+    margin: 5px 0px;
+}
+about{
+    opacity: 75%;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 15px;
+}
+
+profile img{
+    width: 400px;
+    border-radius: 50%;
+}
+profile p{
+    font-weight: bold;
+}

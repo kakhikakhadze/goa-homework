@@ -1,0 +1,21 @@
+.m1{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.m{ 
+    flex-shrink:1 ;
+    flex-grow:2 ;
+}
+.m2{
+    flex-shrink:1 ;
+    flex-grow: 3;
+}
+.m3{
+    flex-shrink: 4;
+    flex-grow:5 ;
+}
+.box{
+    background-color: blueviolet;
+}

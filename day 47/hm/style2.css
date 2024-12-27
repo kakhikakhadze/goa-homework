@@ -1,0 +1,11 @@
+.box2{
+    display:flex;
+    justify-content: space-between;
+    padding:10px 20px;
+    background-color: aqua;
+}
+.box2 a{
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+}
