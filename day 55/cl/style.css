@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 50px;
+}
+
+.block{
+    background-color: blueviolet;
+    gap:15px;
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
