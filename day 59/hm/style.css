@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+}
+#start{
+    position: absolute;
+    left: 700px;
+    top: 500px;
+    background-color: black;
+    color: wheat;
+    width: 60px;
+    height: 25px;
+    border-radius: 8px;
+    border: none;
+    transition: 0.3s;
+    border: 2px solid black;
+}
+#start:hover{
+    border: 2px solid rgb(0, 147, 147);
+    box-shadow: 0px 0px 3px rgb(0, 147, 147);
+
+}
+
+#square{
+    position: absolute;
+    left: 713px;
+    top: 360px;
+    width: 30px;
+    height: 30px;
+    border-radius: 3px;
+    border: 2px solid rgb(24, 255, 255);
+    box-shadow: 0px 0px 5px rgb(165, 255, 255);
+    animation: sq 2s  linear;
+}
+
+@keyframes sq {
+    0%{
+        transform: scale(1, 1);
+    }
+    20%{
+        transform: scale(-1, 1);
+    }
+    40%{
+        transform: scale(1, -1);
+    }
+    60%{
+        transform: scale(1, 1);
+    }
+    80%{
+        transform: rotate(180deg);
+    }
+}
+
+#loading{
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    background-color: white;
+    border-radius: 10px;
+    top: 450px;
+    left: 680px;
+    overflow: hidden;
+}
+
+#loader{
+    background-color: rgb(14, 179, 255);
+    position: absolute;
+    width: 0;
+    border-radius: 10px;
+    height: 100%;
+    animation: load 5s  linear;
+    box-shadow: 0px 0px 10px skyblue;
+}
+@keyframes load{
+    0%{
+        width: 0;
+    }
+    99%{
+        width: 100%;
+    }
+}
