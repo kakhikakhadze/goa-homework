@@ -1,0 +1,153 @@
+body{
+    position: absolute;
+}
+
+.fg{
+    margin-top: 5px;
+    position: absolute;
+    width: 1590px;
+    height: 100px;
+    background-color: black;
+    border-radius: 5px;
+}
+.fh{
+    position: absolute;
+    background-color: orange;
+    width: 1600px;
+    height: 105px;
+    border-radius: 10px;
+    margin-left: -5px;
+}
+.i{
+    position: absolute;
+    color:orange;
+    margin-top: 35px;
+    margin-left: 130px;
+}
+.o{
+    position: absolute;
+    color:white;
+    margin-top: 35px;
+    margin-left: 163px;
+}
+.k{
+    position: absolute;
+    color:darkorange;
+    margin-left: 500px;
+    margin-top: 35px;
+    text-underline-position: under;
+    text-decoration: underline;
+}
+.u{
+    position: absolute;
+    color:white;
+    margin-left: 615px;
+    margin-top: 35px;
+}
+.y{
+    position: absolute;
+    color:white;
+    margin-left: 715px;
+    margin-top: 35px;
+}
+.r{
+    position: absolute;
+    color:white;
+    margin-left: 830px;
+    margin-top: 35px;
+}
+.w{
+    position: absolute;
+    color:white;
+    margin-left: 930px;
+    margin-top: 34px;
+}
+.l{
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    margin-top: 20px;
+    background-color:white;
+    border-radius: 10px;
+    margin-left: 1270px;
+}
+.z{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 13px;
+}
+
+.hj{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 130px;
+    font-size: 30px;
+}
+.df{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 130px;
+    font-size: 50px;
+}
+.dfg{
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 210px;
+    color: darkorange;
+    font-size: 50px;
+}
+.poi{
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 130px;
+    font-size: 50px;
+}
+.zx{
+    margin-top: 410px;
+    margin-left: 130px;
+}
+.xz{
+    margin-top: -15px;
+    margin-left: 130px;
+}
+.er{
+    margin-top: -15px;
+    margin-left: 130px;
+}
+.hjk{
+    position: absolute;
+    width:450px;
+    height:500px;
+    margin-top: 140px;
+    margin-left: 950px;
+    border-radius: 500px;
+}
+.uo{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    background-color:black;
+    border-radius: 10px;
+    margin-left: 130px;
+    color:white;
+}
+.bm{
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    background-color:darkorange;
+    color:white;
+    border-radius: 10px;
+    margin-left: 125px;
+}
+.gm{
+    position: absolute;
+    display: flex;
+    margin-left: 20px;
+}
+.vm{
+    position: absolute;
+    display: flex;
+    margin-left: 30px;
+}

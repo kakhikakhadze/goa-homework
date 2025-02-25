@@ -1,0 +1,87 @@
+body{
+    position: absolute;
+    background-color: hsl(229, 57%, 11%);
+    margin-top: 300px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.gh{
+    margin-left: 250px;
+    margin-top: -100px;
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 5px;
+    border-top-right-radius: 100px;
+}
+
+.rt{
+    position: absolute;
+    width: 520px;
+    height: 160px;
+    background-color: hsl(228, 56%, 26%);
+    margin-left: 630px;
+    margin-top: -60px;
+    border-radius: 5px;
+}
+
+.qa{
+    position: absolute;
+    display: flex;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+.er{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(229, 57%, 11%);
+    width: 30px;
+    height: 30px;
+    margin-top: 110px;
+    margin-left: 40px;
+}
+.rr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(229, 57%, 11%);
+    width: 30px;
+    height: 30px;
+    margin-top: -30px;
+    margin-left: 107px;
+}
+.tr{
+    background-color: hsl(229, 57%, 11%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    margin-top: -30px;
+    margin-left: 174px;
+}
+.po{
+    color: hsl(229, 7%, 55%);
+    margin-top: -100px;
+    margin-left: 174px;
+
+}
+.pi{
+    color: hsl(243, 100%, 93%);
+    margin-top: -193px;
+    margin-left: 204px;
+}
+.ti{
+    color: hsl(243, 100%, 93%);
+    margin-top: -130px;
+    margin-left: 100px;
+}
+.ui{
+    color: hsl(229, 7%, 55%);
+    margin-top: 255px;
+    margin-left: 200px;
+}
