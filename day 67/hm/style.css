@@ -1,0 +1,119 @@
+body{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.jk{
+    position: absolute;
+    width: 440px;
+    height: 500px; 
+    background-color: rgb(0, 157, 255);
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.bm{
+    position: absolute;
+    width: 440px;
+    height: 500px; 
+    background-color: rgb(255, 191, 0);
+    margin-top: 100px;
+    margin-left: 515px;
+    border-radius: 10px;
+}
+.bn{
+    position: absolute;
+    width: 440px;
+    height: 500px; 
+    background-color:rgb(1, 65, 104);
+    margin-top: 100px;
+    margin-left: 980px;
+    border-radius: 10px;
+}
+.mn{
+    position: absolute;
+    width: 140px;
+    height: 45px;
+    background-color: rgba(2, 2, 24, 0.152);  
+    margin-top: 410px;
+    margin-left: 50px;
+    border-radius: 100px;
+}
+.nm{
+    position: absolute;
+    width: 140px;
+    height: 45px;
+    background-color: rgba(2, 2, 24, 0.152);  
+    margin-top: 410px;
+    margin-left: 50px;
+    border-radius: 100px;
+}
+.bt{
+    position: absolute;
+    width: 140px;
+    height: 45px;
+    background-color: rgba(2, 2, 24, 0.152); 
+    margin-top: 410px;
+    margin-left: 50px;
+    border-radius: 100px;
+}
+.rt{
+    position: absolute;
+    margin-left: 15px; 
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.734);
+}
+.yt{
+    position: absolute;
+    margin-left: 15px; 
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.734);
+    font-size: 10px;
+}
+.iu{
+    position: absolute;
+    margin-left: 15px; 
+    margin-top: 15px;
+    color: rgba(255, 255, 255, 0.734);
+}
+.df{
+    position: absolute;
+    margin-top: -360px;
+    font-size: 25px;
+    color:white
+}
+.ff{
+    position: absolute;
+    margin-top: -360px;
+    font-size: 25px;
+    color:white
+}
+.gf{
+    position: absolute;
+    margin-top: -360px;
+    font-size: 21px;
+    color:white
+}
+.tt{
+    position: absolute;
+    margin-left: 50px; 
+    margin-top: 100px;
+    color: rgba(255, 255, 255, 0.734);
+    font-size: 25px;
+
+}
+.yt{
+    position: absolute;
+    margin-left: 50px; 
+    margin-top: 100px;
+    color: rgba(255, 255, 255, 0.734);
+    font-size: 25px;
+}
+.rt{
+    position: absolute;
+    margin-left: 50px; 
+    margin-top: 100px;
+    color: rgba(255, 255, 255, 0.734);
+    font-size: 25px;
+}
